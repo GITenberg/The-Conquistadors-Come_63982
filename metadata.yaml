@@ -1,10 +1,13 @@
 _repo: The-Conquistadors-Come_63982
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Kass, Hank
     gutenberg_agent_id: '52694'
     url: http://www.gutenberg.org/2009/agents/52694
+covers:
+- cover_type: archival
+  image_path: 63982-h/images/cover.jpg
 creator:
   author:
     agent_name: Counselman, Mary Elizabeth
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '35875'
     url: http://www.gutenberg.org/2009/agents/35875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63982#The-Conquistadors-Come
 gutenberg_issued: '2020-12-07'
 gutenberg_type: Text
 identifiers:
